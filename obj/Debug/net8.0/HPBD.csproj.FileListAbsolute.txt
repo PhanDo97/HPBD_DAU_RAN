@@ -1,0 +1,5 @@
+D:\HPBD\obj\Debug\net8.0\HPBD.GeneratedMSBuildEditorConfig.editorconfig
+D:\HPBD\obj\Debug\net8.0\HPBD.AssemblyInfoInputs.cache
+D:\HPBD\obj\Debug\net8.0\HPBD.AssemblyInfo.cs
+D:\HPBD\obj\Debug\net8.0\HPBD.csproj.CoreCompileInputs.cache
+D:\HPBD\obj\Debug\net8.0\HPBD.MvcApplicationPartsAssemblyInfo.cache
